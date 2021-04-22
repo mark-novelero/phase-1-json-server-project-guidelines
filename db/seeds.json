@@ -1,158 +1,80 @@
 {
-  "books": [
+  "comments": [ {
+    "comment": "Where's Steph Curry? ",
+    "id": 1
+  },
+  {
+    "comment": "We can't forget about Mugsy!!!",
+    "id": 2
+  },
+  {
+    "comment": "LEBRON, LEBRON, LEBRON!!! ",
+    "id": 3
+  }],
+  "ballers": [
     {
       "id": 1,
-      "author": "Chinua Achebe",
-      "country": "Nigeria",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
-      "pages": 209,
-      "title": "Things Fall Apart",
-      "year": 1958,
-      "likes": 0
+      "name": "Michael Jordan",
+      "image": "http://ultimatecollector.weebly.com/uploads/6/1/6/0/6160481/s822845754870935811_p297_i2_w570.jpeg",
+      "likes": 0,
+      "accomplishments": "Five-time NBA MVP; Six-time NBA champion; Six-time NBA Finals MVP; Nine time NBA All-Defensive First Team; 14-time NBA All-Star",
+      "team": "Bulls"
     },
     {
       "id": 2,
-      "author": "Hans Christian Andersen",
-      "country": "Denmark",
-      "language": "Danish",
-      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
-      "pages": 784,
-      "title": "Fairy tales",
-      "year": 1836,
-      "likes": 0
+      "name": "Kobe Bryant",
+      "image": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad975faa9c4c321e144b8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D205%26cropY2%3D1893",
+      "likes": 0,
+      "accomplishments": "1x NBA MVP, 5x NBA Champion, 18x NBA All-star, 2x NBA Finals MVP, 12x All-Defensive First Team",
+      "team": "Lakers00"
     },
     {
       "id": 3,
-      "author": "Dante Alighieri",
-      "country": "Italy",
-      "language": "Italian",
-      "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
-      "pages": 928,
-      "title": "The Divine Comedy",
-      "year": 1315,
-      "likes": 0
+      "name": "Lebron James",
+      "image": "https://cdn.nba.com/manage/2020/10/20171201_lebron_james_iso-3-784x523.jpg",
+      "likes": 0,
+      "accomplishments": "4x NBA MVP, 4x NBA Champion, 17x NBA All-star, 4x NBA Finals MVP, 6x All-Defensiv3e First Team, 17x NBA All-Star",
+      "team": "Cavs"
     },
     {
       "id": 4,
-      "author": "Jane Austen",
-      "country": "United Kingdom",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
-      "pages": 226,
-      "title": "Pride and Prejudice",
-      "year": 1813,
-      "likes": 0
+      "name": "Bill Russell",
+      "image": "https://i.ytimg.com/vi/L2gOokH1nAw/maxresdefault.jpg",
+      "likes": 0,
+      "accomplishments": "5x NBA MVP, 11x NBA Champion. 12x NBA All-star, 11x All-NBA team.",
+      "team" : "Celtics60"
     },
     {
       "id": 5,
-      "author": "Samuel Beckett",
-      "country": "Republic of Ireland",
-      "language": "French, English",
-      "link": "https://en.wikipedia.org/wiki/Molloy_(novel)",
-      "pages": 256,
-      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-      "year": 1952,
-      "likes": 0
+      "name": "Magic Johnson",
+      "image": "https://cdn.vox-cdn.com/thumbor/zAY-ClRM-nAlrIue9N4c0hIAHG8=/0x368:2048x1904/1200x900/filters:focal(0x368:2048x1904)/cdn.vox-cdn.com/uploads/chorus_image/image/53354001/GettyImages-242793.0.jpg",
+      "likes": 0,
+      "accomplishments": "3x NBA MVP, 5x NBA Champion, 3x NBA Finals MVP, 12x NBA All-Star, 10x All-NBA Team",
+      "team": "Lakers80"
     },
     {
       "id": 6,
-      "author": "Giovanni Boccaccio",
-      "country": "Italy",
-      "language": "Italian",
-      "link": "https://en.wikipedia.org/wiki/The_Decameron",
-      "pages": 1024,
-      "title": "The Decameron",
-      "year": 1351,
-      "likes": 0
+      "name": "Larry Bird",
+      "image": "https://cdn.theathletic.com/app/uploads/2020/01/08144314/Larry-Bird-e1578549702140-1024x683.jpg",
+      "likes": 0,
+      "accomplishments": "3x NBA MVP, 3x NBA Champion, 2x NBA Finals MVP, 12x NBA All-star, 10x All-NBA Team",
+      "team" : "Celtics80"
     },
     {
       "id": 7,
-      "author": "Jorge Luis Borges",
-      "country": "Argentina",
-      "language": "Spanish",
-      "link": "https://en.wikipedia.org/wiki/Ficciones",
-      "pages": 224,
-      "title": "Ficciones",
-      "year": 1965,
-      "likes": 0
+      "name": "SHAQ",
+      "image": "https://s22928.pcdn.co/wp-content/uploads/2016/01/5608b3a444dc82bd329f2fa89466-e1455556676954.jpeg",   
+      "likes": 0,
+      "accomplishments": "1x NBA MVP, 4x NBA Champion, 3x NBA Finals MVP, 15x NBA All-Star, 3x NBA All-Defensive",
+      "team" : "Heat"
     },
     {
       "id": 8,
-      "author": "Albert Camus",
-      "country": "Algeria, French Empire",
-      "language": "French",
-      "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)",
-      "pages": 185,
-      "title": "The Stranger",
-      "year": 1942,
-      "likes": 0
-    },
-    {
-      "id": 9,
-      "author": "Miguel de Cervantes",
-      "country": "Spain",
-      "language": "Spanish",
-      "link": "https://en.wikipedia.org/wiki/Don_Quixote",
-      "pages": 1056,
-      "title": "Don Quijote De La Mancha",
-      "year": 1610,
-      "likes": 0
-    },
-    {
-      "id": 10,
-      "author": "Geoffrey Chaucer",
-      "country": "England",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales",
-      "pages": 544,
-      "title": "The Canterbury Tales",
-      "year": 1450,
-      "likes": 0
-    },
-    {
-      "id": 11,
-      "author": "Anton Chekhov",
-      "country": "Russia",
-      "language": "Russian",
-      "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov",
-      "pages": 194,
-      "title": "Stories",
-      "year": 1886,
-      "likes": 0
-    },
-    {
-      "id": 12,
-      "author": "Joseph Conrad",
-      "country": "United Kingdom",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Nostromo",
-      "pages": 320,
-      "title": "Nostromo",
-      "year": 1904,
-      "likes": 0
-    },
-    {
-      "id": 13,
-      "author": "Charles Dickens",
-      "country": "United Kingdom",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Great_Expectations",
-      "pages": 194,
-      "title": "Great Expectations",
-      "year": 1861,
-      "likes": 0
-    },
-    {
-      "id": 14,
-      "author": "Denis Diderot",
-      "country": "France",
-      "language": "French",
-      "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist",
-      "pages": 596,
-      "title": "Jacques the Fatalist",
-      "year": 1796,
-      "likes": 0
+      "name": "Wilt Chamberlain",
+      "image": "https://fadeawayworld.net/wp-content/uploads/2020/05/The-Craziest-Records-By-Wilt-Chamberlain-That-You-Never-Knew-About.jpg",
+      "likes": 0,
+      "accomplishments": "4x NBA MVP, 2x NBA Champion, 1x NBA Finals MVP, 13x NBA All-Star, 10x All-NBA",
+      "team" : "Dubs"
     }
   ]
 }
