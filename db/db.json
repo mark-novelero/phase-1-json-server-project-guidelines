@@ -1,22 +1,16 @@
 {
-  "comments": [
-    {
-      "comment": "Where's Steph Curry? ",
-      "id": 1
-    },
-    {
-      "comment": "We can't forget about Mugsy!!!",
-      "id": 2
-    },
-    {
-      "comment": "LEBRON, LEBRON, LEBRON!!! ",
-      "id": 3
-    },
-    {
-      "comment": "I like this site",
-      "id": 4
-    }
-  ],
+  "comments": [ {
+    "comment": "Where's Steph Curry? ",
+    "id": 1
+  },
+  {
+    "comment": "We can't forget about Mugsy!!!",
+    "id": 2
+  },
+  {
+    "comment": "LEBRON, LEBRON, LEBRON!!! ",
+    "id": 3
+  }],
   "ballers": [
     {
       "id": 1,
@@ -48,7 +42,7 @@
       "image": "https://i.ytimg.com/vi/L2gOokH1nAw/maxresdefault.jpg",
       "likes": 0,
       "accomplishments": "5x NBA MVP, 11x NBA Champion. 12x NBA All-star, 11x All-NBA team.",
-      "team": "Celtics60"
+      "team" : "Celtics60"
     },
     {
       "id": 5,
@@ -64,15 +58,15 @@
       "image": "https://cdn.theathletic.com/app/uploads/2020/01/08144314/Larry-Bird-e1578549702140-1024x683.jpg",
       "likes": 0,
       "accomplishments": "3x NBA MVP, 3x NBA Champion, 2x NBA Finals MVP, 12x NBA All-star, 10x All-NBA Team",
-      "team": "Celtics80"
+      "team" : "Celtics80"
     },
     {
       "id": 7,
       "name": "SHAQ",
-      "image": "https://s22928.pcdn.co/wp-content/uploads/2016/01/5608b3a444dc82bd329f2fa89466-e1455556676954.jpeg",
+      "image": "https://s22928.pcdn.co/wp-content/uploads/2016/01/5608b3a444dc82bd329f2fa89466-e1455556676954.jpeg",   
       "likes": 0,
       "accomplishments": "1x NBA MVP, 4x NBA Champion, 3x NBA Finals MVP, 15x NBA All-Star, 3x NBA All-Defensive",
-      "team": "Heat"
+      "team" : "Heat"
     },
     {
       "id": 8,
@@ -80,7 +74,7 @@
       "image": "https://fadeawayworld.net/wp-content/uploads/2020/05/The-Craziest-Records-By-Wilt-Chamberlain-That-You-Never-Knew-About.jpg",
       "likes": 0,
       "accomplishments": "4x NBA MVP, 2x NBA Champion, 1x NBA Finals MVP, 13x NBA All-Star, 10x All-NBA",
-      "team": "Dubs"
+      "team" : "Dubs"
     }
   ]
 }
